@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first_class{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.first{
+    text-align: center;
+}
